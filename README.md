@@ -4,4 +4,3 @@
 - 🏗️ I'm the Student of [Boot.dev](https://boot.dev)
 - 🐧 I’m learning Backend and Linux at the moment
 - 💻 Macos, Omarchy, CachyOS
-- 🌎 Netherlands
