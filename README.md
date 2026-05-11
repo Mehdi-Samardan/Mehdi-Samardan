@@ -1,4 +1,4 @@
-###Mehdi Samardan
+### Mehdi Samardan
 
 - 🐣 I've been coding in Python primarily for over 3 years (From CS50)
 - 🏢 Working at [AlphaRainbow](https://alpharainbow.nl/en/)
