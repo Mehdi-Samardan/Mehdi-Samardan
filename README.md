@@ -1,7 +1,8 @@
 ###   Mehdi Samardan
 
-- 🐣 I've been coding in Python primarily for over 3 years
 - 🏢 Working at [AlphaRainbow](https://alpharainbow.nl/en/)
-- 🏗️ I'm the Student of [Boot.dev](https://boot.dev) / Software Engineering (Windesheim)
+- 🏫 Software Engineering [Windesheim](https://www.windesheim.nl/)
 - 🥱 Bored? [Pew-Pew](https://pew-pew-game.netlify.app)
-- 💻 Macos, Omarchy
+- 🏗️ I'm the Student of [Boot.dev](https://boot.dev)
+- 💻 Macos
+- 🐧 Omarchy
