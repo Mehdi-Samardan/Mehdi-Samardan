@@ -1,6 +1,6 @@
 # Mehdi Samardan
 
-Software Engineering student · Builder · Linux enthusiast
+Software Engineering student
 
 | | |
 |---|---|
