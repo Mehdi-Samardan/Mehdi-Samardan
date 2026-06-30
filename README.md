@@ -4,17 +4,46 @@
 
 Software Engineering student · Builder · Linux enthusiast
 
-</div>
+<br>
 
-| | |
-|---|---|
-| 👨‍💻 | **IT Specialist / Programmer** @ [AlphaRainbow](https://alpharainbow.nl/en/) |
-| 🎓 | **Student** @ [Windesheim](https://www.windesheim.nl/) |
-| 🏗️ | **Backend & Systems** @ [Boot.dev](https://boot.dev) |
-| 🔗 | [LinkedIn](https://www.linkedin.com/in/mehdi-samardan/) |
-| 🐧 | [Omarchy](https://omarchy.org/) / [Windows](https://www.microsoft.com/windows) |
-| 💻 | [MacBook Pro 16" M1 Pro](https://support.apple.com/en-us/111901) |
-| 📍 | [Netherlands](https://www.google.com/maps/place/Netherlands/) · [Turkey](https://www.google.com/maps/place/Turkiye/) |
-| 🧮 | [3Blue1Brown](https://www.3blue1brown.com/) |
-| 🎬 | [Top Documentary Films](https://topdocumentaryfilms.com/) |
+<table>
+  <tr>
+    <td align="right">👨‍💻</td>
+    <td><b>IT Specialist / Programmer</b> @ <a href="https://alpharainbow.nl/en/">AlphaRainbow</a></td>
+  </tr>
+  <tr>
+    <td align="right">🎓</td>
+    <td><b>Student</b> @ <a href="https://www.windesheim.nl/">Windesheim</a></td>
+  </tr>
+  <tr>
+    <td align="right">🏗️</td>
+    <td><b>Backend & Systems</b> @ <a href="https://boot.dev">Boot.dev</a></td>
+  </tr>
+  <tr>
+    <td align="right">🔗</td>
+    <td><a href="https://www.linkedin.com/in/mehdi-samardan/">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td align="right">🐧</td>
+    <td><a href="https://omarchy.org/">Omarchy</a> / <a href="https://www.microsoft.com/windows">Windows</a></td>
+  </tr>
+  <tr>
+    <td align="right">💻</td>
+    <td><a href="https://support.apple.com/en-us/111901">MacBook Pro 16" M1 Pro</a></td>
+  </tr>
+  <tr>
+    <td align="right">📍</td>
+    <td><a href="https://www.google.com/maps/place/Netherlands/">Netherlands</a> · <a href="https://www.google.com/maps/place/Turkiye/">Turkey</a></td>
+  </tr>
+  <tr>
+    <td align="right">🧮</td>
+    <td><a href="https://www.3blue1brown.com/">3Blue1Brown</a></td>
+  </tr>
+  <tr>
+    <td align="right">🎬</td>
+    <td><a href="https://topdocumentaryfilms.com/">Top Documentary Films</a></td>
+  </tr>
+</table>
+
+</div>
 
